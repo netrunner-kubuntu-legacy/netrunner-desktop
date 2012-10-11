@@ -1,0 +1,14 @@
+Source: netrunner-desktop
+Section: admin
+Priority: optional
+Maintainer: Phoenix <phoenix@netrunner-os.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: netrunner-desktop
+Architecture: all
+Depends: netrunner-system, netrunner-artwork, netrunner-artwork-backgrounds, netrunner-artwork-icons, netrunner-artwork-firefox, kde-gtk-config, netrunner-artwork-thunderbird
+Conflicts: plasma-netbook, kubuntu-desktop
+Replaces: plasma-netbook, kubuntu-desktop
+Description: Meta package for the Netrunner desktop environment
+   Meta package for the Netrunner desktop environment

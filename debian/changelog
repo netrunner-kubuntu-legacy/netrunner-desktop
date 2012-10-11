@@ -1,0 +1,11 @@
+netrunner-desktop (5.0) enigma; urgency=low
+
+  * Initial enigma release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Wed, 19 Sep 2012 09:11:20 +0200
+
+netrunner-desktop (4.2.0-1) dryland-se; urgency=low
+
+  * Initial dryland-se release
+
+ -- Frederic Gaudet <fred@linuxmint.com>  Sat, 21 Apr 2012 13:35:19 +0200
