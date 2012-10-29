@@ -1,3 +1,9 @@
+netrunner-desktop (4.4) dryland-te; urgency=low
+
+  * Change release number
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Mon, 29 Oct 2012 10:24:54 +0100
+
 netrunner-desktop (4.3) dryland-te; urgency=low
 
   * Initial Dryland TE release
