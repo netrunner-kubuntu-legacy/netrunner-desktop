@@ -1,3 +1,9 @@
+netrunner-desktop (13.06) enigma-1306; urgency=low
+
+  * Initial Enigma release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 14 Mar 2013 21:24:20 +0100
+
 netrunner-desktop (12.12) dryland-te; urgency=low
 
   * Change release number
