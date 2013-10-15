@@ -1,3 +1,9 @@
+netrunner-desktop (13.12) saucy; urgency=low
+
+  * Change release number
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 15 Oct 2013 11:33:00 +0200
+
 netrunner-desktop (13.06) enigma-1306; urgency=low
 
   * Initial Enigma release
