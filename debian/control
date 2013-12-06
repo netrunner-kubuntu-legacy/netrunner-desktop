@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: netrunner-desktop
 Architecture: all
-Depends: netrunner-system, netrunner-artwork, netrunner-artwork-backgrounds, netrunner-artwork-icons, netrunner-artwork-firefox, netrunner-artwork-thunderbird, netrunner-apt-config, ksuperkey, netrunner-default-settings, plasma-widget-homerun-kicker,expanding-icons-taskmanager
+Depends: netrunner-system, netrunner-artwork, netrunner-artwork-backgrounds, netrunner-artwork-icons, netrunner-artwork-firefox, netrunner-artwork-thunderbird, netrunner-apt-config, ksuperkey, netrunner-default-settings, plasma-widget-homerun-kicker,expanding-icons-taskmanager, kde-workspace-randr
 Conflicts: plasma-netbook, kubuntu-desktop
 Replaces: plasma-netbook, kubuntu-desktop
 Description: Meta package for the Netrunner desktop environment
